@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Andreu and my nickname is "Drey-cf"!
+## My name is Andrey and my nickname is "Drey-cf"!
 
 - 🔭 I’m currently studying to become a data scientist
 - 🌱 I’m currently learning statistics and Data visualization
